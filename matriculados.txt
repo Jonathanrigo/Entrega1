@@ -1,0 +1,5 @@
+el estudiante lili
+con cedula72
+se ha matriculado en el curso13
+la duracion del curso es 50
+el valor del curso es 2000

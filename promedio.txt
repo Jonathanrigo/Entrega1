@@ -1,0 +1,5 @@
+el estudiante jonathan
+con cedula1036654523
+se ha matriculado en el curso12
+la duracion del curso es 48
+el valor del curso es 2000

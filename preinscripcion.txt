@@ -1,0 +1,3 @@
+El nombre del estudiante es undefined
+Con identificaion numero undefined
+Registro el curso undefined

@@ -1,0 +1,3 @@
+El estudiante jonathan
+Con la cedula: 1036654523
+Se ha matriculado en el curso con ID 1 de nombre Curso Node.js que tiene una duracion de 32 y un valor de 0

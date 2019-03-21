@@ -1,0 +1,4 @@
+el estudiante se llama jona
+tiene un cedula de 1036
+se matricula en Node.js con codigo 10
+con una duracion de 32 horas y un valor de 0
